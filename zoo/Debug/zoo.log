@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\map\dodatno\zoo\zoo\main.cpp(6): warning C4018: '<': signed/unsigned mismatch
+  zooanimal.cpp
+  Generating Code...
+  zoo.vcxproj -> C:\Map\dodatno\zoo\Debug\zoo.exe
